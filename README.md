@@ -1,2 +1,2 @@
 # KlipperMacros
-Macros for Klipper
+Macros for Klipper 3d printer firmware
